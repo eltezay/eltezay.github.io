@@ -19,16 +19,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: lt.jefferson@outlook.com
-  facebook: https://www.facebook.com/eltezay
+  facebook: eltezay
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: eltezay
+  instagram: eltezay
+  linkedin: Letaurus
   pinterest:
   rss: RSS
   twitter: eltezay
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: # channel/UCnVBLzSNajPZFTcanByDopA?view_as=subscriber
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
